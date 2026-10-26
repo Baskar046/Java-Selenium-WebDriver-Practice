@@ -40,8 +40,6 @@ public class sixteenth_ExplicitWait {
     }
 }
 
-//3.35.53
-
 /*
 Explicit Wait — Specific wait
 

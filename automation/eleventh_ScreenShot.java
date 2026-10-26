@@ -27,7 +27,6 @@ public class eleventh_ScreenShot {
     }
 }
 
-//2.50.23
 
 
 /*

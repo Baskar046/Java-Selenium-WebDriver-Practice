@@ -16,5 +16,3 @@ public class First_AutomationLauch {
 
     }
 }
-
-//17.28

@@ -34,5 +34,3 @@ getAttribute("value") retrieves the actual attribute value from <input> tags.
 DemoQA Radio Buttons: The <input> tag is hidden by CSS. Use getAttribute("value") on the input, or call getText() / .click() directly on its corresponding <label>.
 
  */
-
-//1.47.07

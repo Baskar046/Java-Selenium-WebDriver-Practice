@@ -13,7 +13,7 @@ public class Second_URLNavigation {
         driver.navigate().forward();
         driver.navigate().refresh();
 
-        //34.10
+
 
     }
 }

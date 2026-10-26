@@ -28,11 +28,8 @@ public class Tenth_SwitchWindow {
 
         System.out.println(driver.getWindowHandles());
 
-//        WebElement tab = driver.findElement(By.id("https://www.chrome.com/"));
     }
 }
-
-//2.41.32
 
 
 /*

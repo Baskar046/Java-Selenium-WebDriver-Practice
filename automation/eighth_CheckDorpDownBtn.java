@@ -62,5 +62,3 @@ public class eighth_CheckDorpDownBtn {
         return dropbtn;
     }
 }
-
-//2.08.59
